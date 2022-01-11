@@ -1,0 +1,23 @@
+{
+  "name": "clone-spotify",
+  "version": "1.0.0",
+  "description": "Clone do site do spotify com Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guisaoncella/clone-spotify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guisaoncella/clone-spotify/issues"
+  },
+  "homepage": "https://github.com/guisaoncella/clone-spotify#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.13"
+  }
+}
