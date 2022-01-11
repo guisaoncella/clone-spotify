@@ -1,2 +1,2 @@
 # clone-spotify
-Clone do site do spotify com Tailwind
+Clone da pagina inicial do site do spotify com Tailwind
